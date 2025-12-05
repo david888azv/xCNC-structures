@@ -45,7 +45,7 @@ These findings demonstrate that extended carbon nanocones are viable targets for
 ## 🖼️ Nanocone Structures
 
 <p align="center">
-  <img src="all-nanocones-github.png" alt="Extended Carbon Nanocones" width="800"/>
+  <img src="all-nanocones-github.png" alt="Extended Carbon Nanocones" width="50%"/>
 </p>
 
 **Figure**: Extended carbon nanocones (xCNCs) derived from four different 2D carbon allotropes with disclination angles of 60°, 120°, and 180°.
