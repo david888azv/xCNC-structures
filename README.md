@@ -1,12 +1,13 @@
 # Extended Carbon Nanocones Derived from Non-Graphene Two-Dimensional Allotropes
 
-[![Status](https://img.shields.io/badge/Status-Submitted-orange)](https://pubs.acs.org/journal/ancac3)
-[![Journal](https://img.shields.io/badge/Journal-ACS%20Nano-blue)](https://pubs.acs.org/journal/ancac3)
+[![Status](https://img.shields.io/badge/Status-Submitted-orange)](https://www.sciencedirect.com/journal/carbon)
+[![Journal](https://img.shields.io/badge/Journal-Carbon-blue)](https://www.sciencedirect.com/journal/carbon)
+[![Submitted](https://img.shields.io/badge/Submitted-18%2F12%2F2025-green)](https://www.sciencedirect.com/journal/carbon)
 [![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)](LICENSE)
 
 ## 📄 Manuscript Status
 
-**This work has been submitted to [ACS Nano](https://pubs.acs.org/journal/ancac3) and is currently under review.**
+**This work has been submitted to [Carbon](https://www.sciencedirect.com/journal/carbon) on December 18, 2025, and is currently under review.**
 
 ---
 
@@ -93,7 +94,7 @@ If you use these structures in your research, please cite:
 @article{Azevedo2025xCNC,
   author  = {Azevedo, David L. and Coutinho, Samir S. and Santos, Willian O. and Moreira, E.},
   title   = {Extended Carbon Nanocones Derived from Non-Graphene Two-Dimensional Allotropes: A Combined DFT and Molecular Dynamics Study},
-  journal = {ACS Nano},
+  journal = {Carbon},
   year    = {2025},
   note    = {Submitted}
 }
